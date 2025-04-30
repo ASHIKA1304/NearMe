@@ -67,13 +67,13 @@ Execute the programs and publish them.
 ## OUTPUT
 
   ## home 
-    ![alt text](<Screenshot 2025-04-30 164029.png>)
+     ![alt text](image.png)
   ## T.Nagar
-    ![alt text](<Screenshot 2025-04-30 162234.png>)
+    ![alt text](image-1.png)
   ## Adyar
-    ![alt text](<Screenshot 2025-04-30 164016.png>)
+    ![alt text](image-2.png)
   ## Velachery
-    ![alt text](<Screenshot 2025-04-30 164016-1.png>)    
+    ![alt text](image-3.png)    
 
 
 ## RESULT
