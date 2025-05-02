@@ -67,12 +67,16 @@ Execute the programs and publish them.
 ## OUTPUT
 
   ## home 
-     
+     ![Screenshot 2025-04-30 164029](https://github.com/user-attachments/assets/1deafa40-d01c-40b5-9467-8e0465fdd0e3)
+
   ## T.Nagar
-  
+  ![Screenshot 2025-04-30 162234](https://github.com/user-attachments/assets/1f5b417e-23a5-4051-a2a6-5e05d46e8123)
+
   ## Adyar
-    
+    ![Screenshot 2025-04-30 164016](https://github.com/user-attachments/assets/2f8ec7b8-03d9-45ac-b23b-68c7c09d7501)
+
   ## Velachery
+![Screenshot 2025-04-30 164007](https://github.com/user-attachments/assets/54466a8a-0789-49ea-8874-905c9fddfb4c)
 
 
 ## RESULT
