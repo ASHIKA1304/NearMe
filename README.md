@@ -69,7 +69,7 @@ Execute the programs and publish them.
   ## home 
      
   ## T.Nagar
-    ![alt text](<Screenshot 2025-04-30 162234-1.png>)
+  
   ## Adyar
     
   ## Velachery
